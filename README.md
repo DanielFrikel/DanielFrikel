@@ -1,16 +1,24 @@
-### Hi there 👋
+### Buenas Tardes 👋
 
-<!--
-**DanielFrikel/DanielFrikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perfil de Daniel Aguilar - 19211074
 
-Here are some ideas to get you started:
+Estudiante del Instituto Tecnologico de Tijuana:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📡 Ingenieria en Tecnologias de la Informacion y Comunicaciones.
+- 🖥️  Especialidad de Desarrollo de Software (Web y Movil).
+- 📕 Estudio idiomas.
+- 🏭 Con interes de trabajar en empresas extranjeras.
+- Ex estudiante de la preparatoria CBTIS 116.
+
+Con conocimientos en base de datos relacionales y no relacionales, frontend y backend web en ReactJS, frontend y backend Mobile en Java/Kotlin y JetPack.
+C#, JS, Java, C.
+
+Con Horario Escolar:
+=============================================================================================
+|| 2:00PM  ||     Redes    ||     Redes    ||     Redes    ||     Redes    ||     Redes    ||
+|| 3:00PM  || Conocimiento || Conocimiento || Conocimiento || Conocimiento ||              ||
+|| 4:00PM  ||     Diseno   ||     Diseno   ||     Diseno   ||     Diseno   ||     Diseno   ||
+|| 5:00PM  ||   Temas Av   ||   Temas Av   ||   Temas Av   ||   Temas Av   ||   Temas Av   ||
+|| 6:00PM  ||   Negocios   ||   Negocios   ||   Negocios   ||   Negocios   ||              ||
+|| 7:00PM  ||  Auditoria   ||  Auditoria   ||  Auditoria   ||  Auditoria   ||              ||
+=============================================================================================
