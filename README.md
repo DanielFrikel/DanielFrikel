@@ -11,7 +11,7 @@ Estudiante del Instituto Tecnologico de Tijuana:
 - Ex estudiante de la preparatoria CBTIS 116.
 
 Con conocimientos en base de datos relacionales y no relacionales, frontend y backend web en ReactJS, frontend y backend Mobile en Java/Kotlin y JetPack.
-C#, JS, Java, C.
+C#, JS ES6, Java, C.
 
 Con Horario Escolar:
 | **HORA**   | **LUNES**    | **MARTES**   | **MIERCOLES** | **JUEVES**   | **VIERNES** |
