@@ -14,11 +14,12 @@ Con conocimientos en base de datos relacionales y no relacionales, frontend y ba
 C#, JS, Java, C.
 
 Con Horario Escolar:
-=============================================================================================
-|| 2:00PM  ||     Redes    ||     Redes    ||     Redes    ||     Redes    ||     Redes    ||
-|| 3:00PM  || Conocimiento || Conocimiento || Conocimiento || Conocimiento ||              ||
-|| 4:00PM  ||     Diseno   ||     Diseno   ||     Diseno   ||     Diseno   ||     Diseno   ||
-|| 5:00PM  ||   Temas Av   ||   Temas Av   ||   Temas Av   ||   Temas Av   ||   Temas Av   ||
-|| 6:00PM  ||   Negocios   ||   Negocios   ||   Negocios   ||   Negocios   ||              ||
-|| 7:00PM  ||  Auditoria   ||  Auditoria   ||  Auditoria   ||  Auditoria   ||              ||
-=============================================================================================
+| **HORA**   | **LUNES**    | **MARTES**   | **MIERCOLES** | **JUEVES**   | **VIERNES** |
+|:----------:|:------------:|:------------:|:-------------:|:------------:|:-----------:|
+| **2:00PM** | REDES        | REDES        | REDES         | REDES        | REDES       |
+| **3:00PM** | CONOCIMIENTO | CONOCIMIENTO | CONOCIMIENTO  | CONOCIMIENTO |             |
+| **4:00PM** | DISENO       | DISENO       | DISENO        | DISENO       | DISENO      |
+| **5:00PM** | TEMAS        | TEMAS        | TEMAS         | TEMAS        | TEMAS       |
+| **6:00PM** | NEGOCIOS     | NEGOCIOS     | NEGOCIOS      | NEGOCIOS     |             |
+| **7:00PM** | AUDITORIA    | AUDITORIA    | AUDITORIA     | AUDITORIA    |             |
+
