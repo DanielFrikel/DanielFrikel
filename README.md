@@ -23,3 +23,7 @@ Con Horario Escolar:
 | **6:00PM** | NEGOCIOS     | NEGOCIOS     | NEGOCIOS      | NEGOCIOS     |             |
 | **7:00PM** | AUDITORIA    | AUDITORIA    | AUDITORIA     | AUDITORIA    |             |
 
+Bloque de Codigo Fuente:
+```C#
+Console.WriteLine('Hello World');
+```
