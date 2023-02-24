@@ -13,6 +13,8 @@ Estudiante del Instituto Tecnologico de Tijuana:
 Con conocimientos en base de datos relacionales y no relacionales, frontend y backend web en ReactJS, frontend y backend Mobile en Java/Kotlin y JetPack.
 C#, JS ES6, Java, C.
 
+SoloLearn - Python Basics Curse Profile: https://www.sololearn.com/profile/18735964
+
 Con Horario Escolar:
 | **HORA**   | **LUNES**    | **MARTES**   | **MIERCOLES** | **JUEVES**   | **VIERNES** |
 |:----------:|:------------:|:------------:|:-------------:|:------------:|:-----------:|
